@@ -10,3 +10,4 @@ https://pan.baidu.com/s/1AvU8T8qjij6F23fF-EdmAQ?pwd=1234
 1. https://github.com/mingyuliutw/EntropyRateSuperpixel
 2. https://github.com/jjwwczy/ContrastNet-Unsupervised-Feature-Learning-by-Autoencoder-and-Prototypical-Contrastive-Learning
 3. https://github.com/xihongyang1999/CCGC
+4. https://github.com/Hzzone/ProPos
