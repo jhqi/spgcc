@@ -1,4 +1,4 @@
-we have uploaded the pretrained embeddings of India Pines and Salinas. Since the file of Pavia University is too big, plz download from the link below:
+We have uploaded the pretrained embeddings of India Pines and Salinas. Since the file of Pavia University is too big, plz download from the link below:
 
 https://pan.baidu.com/s/1AvU8T8qjij6F23fF-EdmAQ?pwd=1234
 
@@ -11,3 +11,5 @@ https://pan.baidu.com/s/1AvU8T8qjij6F23fF-EdmAQ?pwd=1234
 2. https://github.com/jjwwczy/ContrastNet-Unsupervised-Feature-Learning-by-Autoencoder-and-Prototypical-Contrastive-Learning
 3. https://github.com/xihongyang1999/CCGC
 4. https://github.com/Hzzone/ProPos
+
+If you have any questions, feel free to contact me:qjh@seu.edu.cn
