@@ -12,7 +12,7 @@ Please cite our work if you find it helpful
   author={Qi, Jianhan and Jia, Yuheng and Liu, Hui and Hou, Junhui},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
   title={Superpixel Graph Contrastive Clustering with Semantic-Invariant Augmentations for Hyperspectral Images}, 
-  year={2024},
+  year={},
   volume={},
   number={},
   pages={},
@@ -20,4 +20,4 @@ Please cite our work if you find it helpful
 }
 ```
 
-If you have any questions, feel free to contact me:qjh@seu.edu.cn
+If you have any questions, feel free to contact me: qjh@seu.edu.cn
