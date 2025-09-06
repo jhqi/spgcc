@@ -1,6 +1,6 @@
 This is the code for [Superpixel Graph Contrastive Clustering With Semantic-Invariant Augmentations for Hyperspectral Images](https://ieeexplore.ieee.org/document/10570245)
 
-We have uploaded the pretrained embeddings of India Pines and Salinas. Since the file of Pavia University is too big, plz download from: https://pan.baidu.com/s/1s74mpjHNNwB8nwZ6qXlSZg?pwd=1234
+We have uploaded the pretrained embeddings of India Pines and Salinas. Since the file of Pavia University is too big, plz download from: https://pan.baidu.com/s/1bda4Nxc_9hgVou_JABAMJg?pwd=kw5f
 
 To reproduce
 1. unzip the pretrained embeddings under "pretrained_emb"
